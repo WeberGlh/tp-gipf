@@ -1,7 +1,7 @@
 package gipf;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
+import java.sql.DriverManager
 
 public class DBConnectionProvider {
 
